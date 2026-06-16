@@ -146,7 +146,6 @@ Linux/Mac:
 python -m venv venv
 source venv/bin/activate
 ```
-
 ---
 
 ### Instalar dependências
@@ -154,7 +153,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## Executando a Aplicação
